@@ -1,5 +1,3 @@
----
-
 # Transactional FinTech Platform (Zero-Trust Architecture) - Proyecto Integrador AZ-104
 
 Este repositorio documenta el diseño, la configuración y el despliegue de una plataforma FinTech de procesamiento transaccional en Microsoft Azure. El proyecto aborda de manera integral los dominios evaluados en la certificación **Microsoft Certified: Azure Administrator Associate (AZ-104)**, implementando una arquitectura de red Hub-and-Spoke estricta, controles de identidad granulares, y gobierno de recursos automatizado.
